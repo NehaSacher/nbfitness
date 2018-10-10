@@ -71,10 +71,11 @@ get_header();
 								<div class="overlay">
 									<div class="img_info">
 										<span class="desc">
+											<p>Take the Tour</p>
 											<?php the_content(); ?>
 										</span>
 										<a href="<?php the_post_thumbnail_url(); ?>" data-imagelightbox="home-gal" class="gal_links eng_gal" data-ilb2-caption="<?php echo $caption; ?>">ENLARGE GALLERY</a>
-										<a href="https://my.matterport.com/show/?m=cnkUMEVzEXd" target="_blank" class="gal_links take_tour">TAKE TOUR</a>
+										<a href="https://my.matterport1234567890.com/show/?m=cnkUMEVzEXd" target="_blank" class="gal_links take_tour">TAKE TOUR</a>
 									</div>
 								</div>
 							</div>
