@@ -8,6 +8,9 @@ get_header();
 	<div class="col breadcrumbs">
 		<div class="row">
 			<?php the_breadcrumb(); ?>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt velit nihil ipsam aliquam voluptatum quaerat odit illo nam illum commodi voluptatibus, laudantium minima vel quisquam porro ratione, eos vitae, neque.</p>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur similique doloremque, repellendus, ullam voluptatibus modi mollitia voluptatem iusto, quis saepe, suscipit? Assumenda incidunt fuga ut tempora iste, nostrum quibusdam voluptate.</p>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores veniam voluptatem iste voluptatibus soluta autem doloribus eos excepturi sequi quaerat blanditiis dolores cumque, ullam, molestias reiciendis quod deserunt ad consequatur?</p>
 		</div>
 	</div>
 </div>
