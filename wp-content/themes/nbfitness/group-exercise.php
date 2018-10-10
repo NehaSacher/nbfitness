@@ -82,6 +82,7 @@ global $post;
 		</div>
 
 		<div class="container home_gal_in_wrap">
+		<p>Take the Tour</p>
 			<div class="row ">
 				<div class="col home_gallery">
 					<span class="prevbtn arrw"> <i class="fa fa-angle-left" aria-hidden="true"></i> </span>
