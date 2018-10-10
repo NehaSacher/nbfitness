@@ -47,7 +47,7 @@ global $post;
 								<div class="group_block">
 									<div class="gblock_top">
 										<h4><?php the_title(); ?></h4>
-										<?php echo get_the_post_thumbnail( $_post->ID, 'full' ); ?>
+										<?php echo get_the_post_thumbnail( get_the_ID(), 'full' ); ?>
 									</div>
 									<div class="gblock_bottom">
 										<span class="subhead"><?php the_field('sub_heading'); ?></span>
