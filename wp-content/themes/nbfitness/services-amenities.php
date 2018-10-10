@@ -9,6 +9,9 @@ global $post;
 	<div class="col breadcrumbs">
 		<div class="row">
 			<?php the_breadcrumb(); ?>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia quod, aliquid veritatis dolor fugit laboriosam laudantium a magnam debitis neque labore facere provident veniam beatae excepturi molestiae, similique totam nobis.</p>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat culpa odit exercitationem officia, eaque, temporibus veritatis deserunt delectus quam praesentium molestiae ea consequuntur optio nam eius laborum illo, a blanditiis.</p>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla tenetur rerum minima explicabo beatae similique totam sapiente, harum adipisci doloribus odio perspiciatis commodi illum laudantium ipsa iure saepe, perferendis, voluptates.</p>
 		</div>
 	</div>
 </div>
